@@ -24,8 +24,8 @@ class TrafficLight:
             if time_now > 15:
                 break
 
-# trafficLight = TrafficLight()
-# trafficLight.running()
+trafficLight = TrafficLight()
+trafficLight.running()
 
 #2
 class Road:
